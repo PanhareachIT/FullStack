@@ -34,6 +34,9 @@ const update = async (req, res) => {
     });
 }
 
+const test = () => {
+
+}
 
 // Function to get the items in the cart for a specific customer
 const getCardByCustomerId = async (req, res) => {
